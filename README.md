@@ -7,7 +7,7 @@ If you make use of the data, please cite the original source as appropriate, for
 Steps:
 
 1. Run the Python script. This creates files in the *intermediate* directory.
-2. Run the Mathematica script. This creates a Mathematica package file in the *final* directory. (It takes some time.)
+2. Run the Mathematica script (with Mathematica 10). This creates a Mathematica package file in the *final* directory. (It takes some time.)
 
 The project has the following directory structure:
 
